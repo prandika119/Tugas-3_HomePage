@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tugas3_HomePage</string>
+    <string name="title">PT XYZ</string>
+    <string name="location">Sleman</string>
+    <string name="card1">Katalog Tender</string>
+    <string name="card2">Tender Tersimpan</string>
+    <string name="card3">Laporan Statistik</string>
+    <string name="card4">Pengaturan</string>
+    <string name="last_update">16-06-2022 15:00:01</string>
+    <string name="next_update">17-06-2022 15:00:01</string>
+    <string name="txt_information">Informasi perubahan data katalog</string>
+</resources>
